@@ -1,6 +1,5 @@
 ---
 title: "External Advisory Board"
-type: docs
 date: 2024-10-25T14:55:28-04:00
 ---
 

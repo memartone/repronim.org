@@ -1,6 +1,6 @@
 ---
 title: About
-type: docs
+type: about
 ---
 
 - We are a National Center funded through the NIH
