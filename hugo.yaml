@@ -66,3 +66,7 @@ deployment:
     targets:
         name: public
         URL: s3://dev.repronim.org
+
+taxonomies:
+  author: authors
+
