@@ -69,4 +69,5 @@ deployment:
 
 taxonomies:
   author: authors
+  publication: publications
 
