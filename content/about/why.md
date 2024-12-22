@@ -96,4 +96,4 @@ To the familiar components of data and analysis environments, we also add to the
 To get started, see:
 
 * [Getting started with ReproNim](/resources/getting-started/)
-* The ReproGuide to [tools and use cases](/resources/tools/)
+* See our catalog of [tools and tutorials](/resources/tools/)
