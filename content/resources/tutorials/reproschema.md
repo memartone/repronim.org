@@ -5,7 +5,10 @@ type: docs
 weight: 5 
 ---
 
-**[Reproducible neuroimaging principles](/about/in-practice/#repronims-principles-of-reproducible-neuroimaging)**: 2c: Annotate data.
+**[Reproducible neuroimaging principles](/about/in-practice/#repronims-principles-of-reproducible-neuroimaging)**: 
+
+1:  Study planning
+2c: Annotate data.
 
 **[Actions](/about/in-practice/#repronims-four-core-actions)** Standards, Annotation and provenance.
 
